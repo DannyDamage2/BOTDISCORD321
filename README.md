@@ -1,2 +1,2 @@
-# BOTDISCORD321
-2
+# Empero Discord BOT
+# Online 24/7
